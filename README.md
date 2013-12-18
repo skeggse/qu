@@ -1,6 +1,8 @@
 qu
 ==
 
+[![Build Status](https://travis-ci.org/skeggse/qu.png)](https://travis-ci.org/skeggse/qu)
+
 A simple and efficient queue. Supports a subset of `Array`'s methods, stores data in a singly-linked list.
 
 _Note:_ this is not faster than using JavaScript's built-in arrays, just to appease my conscience.
